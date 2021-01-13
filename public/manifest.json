@@ -1,0 +1,10 @@
+{
+    "name":"Testing page",
+    "short_name":"Testing page",
+    "start_url":"\/",
+    "description":"Testing",
+    "theme_color":"#67acfd",
+    "background_color":"#ffffff",
+    "display":"standalone",
+    "orientation":"any"
+ }
